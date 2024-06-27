@@ -1,9 +1,1 @@
 Hii this is Deepak
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-Good Morning, today is thursday
->>>>>>> Stashed changes
-=======
-Good Morning, today is thursday
->>>>>>> Stashed changes
