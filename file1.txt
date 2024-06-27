@@ -1,3 +1,5 @@
 Hii this is Deepak
-Good evening 
-Today is thursday
+<<<<<<< Updated upstream
+=======
+Good Morning, today is thursday
+>>>>>>> Stashed changes
